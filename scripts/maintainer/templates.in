@@ -1,0 +1,8 @@
+Template: shared/packages-[I:ispell:][W:wordlist:]
+Type: text
+Description:
+
+Template: #PACKAGE#/languages
+Type: text
+Default: #LANGUAGES#
+Description:
